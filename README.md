@@ -6,6 +6,8 @@ Discern is an offline Handwritten Character Recognizer built using Python. It us
 
 ![Demo](Images/Sample.gif)
 
+Dataset: [EMNIST](https://www.nist.gov/node/1298471/emnist-dataset).
+
 ---
 ## Contributors
 

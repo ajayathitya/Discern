@@ -11,7 +11,7 @@ Dataset: [EMNIST](https://www.nist.gov/node/1298471/emnist-dataset).
 ---
 ## Contributors
 
--Ajay Athitya <ajayathitya@gmail.com>
+-Ajay Athitya
 
 ---
 ## License & Copyright
